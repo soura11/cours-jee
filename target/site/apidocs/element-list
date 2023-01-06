@@ -1,0 +1,5 @@
+com.example.dao
+com.example.dao.impl
+com.example.models
+com.example.servlets
+com.example.utils

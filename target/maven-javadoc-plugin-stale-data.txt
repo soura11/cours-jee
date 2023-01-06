@@ -1,0 +1,64 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/IB/.m2/repository/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar;C:/Users/IB/.m2/repository/javax/servlet/jsp/jsp-api/2.2/jsp-api-2.2.jar;C:/Users/IB/.m2/repository/javax/servlet/jstl/1.2/jstl-1.2.jar;C:/Users/IB/.m2/repository/mysql/mysql-connector-java/8.0.17/mysql-connector-java-8.0.17.jar;C:/Users/IB/.m2/repository/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/IB/eclipse-workspace/cours-jee/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/IB/eclipse-workspace/cours-jee/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'cours-jee 0.0.1-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'cours-jee 0.0.1-SNAPSHOT API'
+com.example.dao
+com.example.dao.impl
+com.example.models
+com.example.servlets
+com.example.utils
+'C:/Users/IB/eclipse-workspace/cours-jee/src/main/java/com/example/dao/IDao.java'
+'C:/Users/IB/eclipse-workspace/cours-jee/src/main/java/com/example/dao/impl/UserDaoImpl.java'
+'C:/Users/IB/eclipse-workspace/cours-jee/src/main/java/com/example/models/User.java'
+'C:/Users/IB/eclipse-workspace/cours-jee/src/main/java/com/example/servlets/HomeServlet.java'
+'C:/Users/IB/eclipse-workspace/cours-jee/src/main/java/com/example/servlets/UserServlet.java'
+'C:/Users/IB/eclipse-workspace/cours-jee/src/main/java/com/example/utils/MyConnection.java'
+C:\Users\IB\.m2\repository\javax\servlet\javax.servlet-api\4.0.1\javax.servlet-api-4.0.1.jar = 1671099927828
+C:\Users\IB\.m2\repository\javax\servlet\jsp\jsp-api\2.2\jsp-api-2.2.jar = 1671099927887
+C:\Users\IB\.m2\repository\javax\servlet\jstl\1.2\jstl-1.2.jar = 1671099927993
+C:\Users\IB\.m2\repository\mysql\mysql-connector-java\8.0.17\mysql-connector-java-8.0.17.jar = 1671099928326
+C:\Users\IB\.m2\repository\com\google\protobuf\protobuf-java\3.6.1\protobuf-java-3.6.1.jar = 1671099928251
+C:\Users\IB\eclipse-workspace\cours-jee\src\main\java = 1671026955271
+C:\Users\IB\eclipse-workspace\cours-jee\target\site\apidocs\allclasses-index.html = 1671101154691
+C:\Users\IB\eclipse-workspace\cours-jee\target\site\apidocs\allpackages-index.html = 1671101154692
+C:\Users\IB\eclipse-workspace\cours-jee\target\site\apidocs\copy.svg = 1671101154711
+C:\Users\IB\eclipse-workspace\cours-jee\target\site\apidocs\element-list = 1671101154629
+C:\Users\IB\eclipse-workspace\cours-jee\target\site\apidocs\help-doc.html = 1671101154708
+C:\Users\IB\eclipse-workspace\cours-jee\target\site\apidocs\index-all.html = 1671101154702
+C:\Users\IB\eclipse-workspace\cours-jee\target\site\apidocs\index.html = 1671101154684
+C:\Users\IB\eclipse-workspace\cours-jee\target\site\apidocs\javadoc.bat = 1671101031762
+C:\Users\IB\eclipse-workspace\cours-jee\target\site\apidocs\jquery-ui.overrides.css = 1671101154718
+C:\Users\IB\eclipse-workspace\cours-jee\target\site\apidocs\member-search-index.js = 1671101154695
+C:\Users\IB\eclipse-workspace\cours-jee\target\site\apidocs\module-search-index.js = 1671101154693
+C:\Users\IB\eclipse-workspace\cours-jee\target\site\apidocs\overview-summary.html = 1671101154705
+C:\Users\IB\eclipse-workspace\cours-jee\target\site\apidocs\overview-tree.html = 1671101154682
+C:\Users\IB\eclipse-workspace\cours-jee\target\site\apidocs\package-search-index.js = 1671101154693
+C:\Users\IB\eclipse-workspace\cours-jee\target\site\apidocs\script.js = 1671101154710
+C:\Users\IB\eclipse-workspace\cours-jee\target\site\apidocs\search-page.js = 1671101154713
+C:\Users\IB\eclipse-workspace\cours-jee\target\site\apidocs\search.html = 1671101154704
+C:\Users\IB\eclipse-workspace\cours-jee\target\site\apidocs\search.js = 1671101154712
+C:\Users\IB\eclipse-workspace\cours-jee\target\site\apidocs\serialized-form.html = 1671101154657
+C:\Users\IB\eclipse-workspace\cours-jee\target\site\apidocs\stylesheet.css = 1671101154709
+C:\Users\IB\eclipse-workspace\cours-jee\target\site\apidocs\tag-search-index.js = 1671101154695
+C:\Users\IB\eclipse-workspace\cours-jee\target\site\apidocs\type-search-index.js = 1671101154694
